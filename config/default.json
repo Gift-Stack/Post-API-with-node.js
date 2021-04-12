@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://revie:revie@reviecluster.42jhx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
