@@ -1,14 +1,14 @@
 {
     "name": "revie",
     "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
+    "description": "API for post application",
+    "main": "server.js",
     "scripts": {
         "script": "node server.js",
         "dev": "nodemon server.js"
     },
     "keywords": [],
-    "author": "",
+    "author": "Gift Opia",
     "license": "ISC",
     "dependencies": {
         "bcryptjs": "^2.4.3",
