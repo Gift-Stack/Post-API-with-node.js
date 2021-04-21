@@ -10,7 +10,7 @@ const auth = require('../middleware/auth');
 const User = require('../models/User');
 
 // @route             GET api/auth
-// @desc             Get logged in user posts
+// @desc             Get logged in user
 // @access          Private
 router.get('/', auth, async (req, res) => {
     try {
